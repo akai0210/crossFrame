@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.2.0",
+  "name": "CrossFrameWorkDemo",
+  "uuid": "f9e25841-9335-4f28-b74b-eb8dc4bfb38c",
+  "id": "e6d7295c-272d-4917-af64-b55f88d21f65"
+}

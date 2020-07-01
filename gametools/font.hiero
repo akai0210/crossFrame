@@ -1,0 +1,27 @@
+font.name=黑体
+font.size=32
+font.bold=true
+font.italic=false
+font.gamma=1.8
+font.mono=false
+
+font2.file=
+font2.use=false
+
+pad.top=1
+pad.right=1
+pad.bottom=1
+pad.left=1
+pad.advance.x=-2
+pad.advance.y=-2
+
+glyph.native.rendering=false
+glyph.page.width=1024
+glyph.page.height=512
+glyph.text=0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz "!`?.,;:()[]{}<>|/@^$-%+=#_&~*签到收益提升转盘商城领体力抽枪每日礼包离线奖励春田王者天步杀敌数达狙击神射手雷之锤爆头人连续僵尸夺命卫士狂魔一箭双雕同时死两个网打尽或以上初试身通过荒野旧屋关卡小有成绩废弃工厂完美官秘密总部级黄金波沙积蓄钱腰缠万贯富可国新晋获得下军衔脱颖而出准尉校少代将星中统帅元使用武器退批次量当前最大亡功勋火弹榴普子鸭稳定版半自动全强陆战漠鹰速突轻机捷格加廖夫散霰防猎发短特林重猛种冲锋鼓高精度巴祖筒木攻化所持增，秒。里棚钢筋铁骨减造伤害铜墙壁幅幻影对屏极无限五式匣容疯不受任何血回复分较多超医生瞬间修具扇窗户房兴奋剂跑鞋移币于砖石购买稀物品主角值探测的方位控制斗开启胜利我围在指引往进行至爱菲奥娜活着来只为与你相见足未是否观看视频免费颗？低点闭音乐震调节灵敏改变向及心率败第卸售副械威装已花能没余配支卖价确吗后剩就取今明再吧钟内倍消路正请选择把描述示情报计设置游戏恭喜幸运广告清除闯失始原地兵验左断臂右盔棍盾砍刀爬光甲斧电锯
+
+render_type=0
+
+effect.class=com.badlogic.gdx.tools.hiero.unicodefont.effects.ColorEffect
+effect.Color=ffffff
+

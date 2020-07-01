@@ -1,0 +1,8 @@
+{
+  "name": "verson_generator",
+  "version": "0.0.1",
+  "description": "生成热更新文件",
+  "author": "Cocos Creator",
+  "main": "main.js"
+  
+}
